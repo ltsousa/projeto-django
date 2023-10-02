@@ -7427,3 +7427,7 @@ venv/Scripts/python.exe
 venv/Scripts/pythonw.exe
 venv/Scripts/sqlformat.exe
 venv/Scripts/wheel.exe
+projeto/__pycache__/__init__.cpython-38.pyc
+projeto/__pycache__/settings.cpython-38.pyc
+projeto/__pycache__/urls.cpython-38.pyc
+projeto/__pycache__/wsgi.cpython-38.pyc
